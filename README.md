@@ -12,4 +12,4 @@ This a list of my completed projects:
             - Django Rest Framework
             - PostgreSQL 
       
-  A download of the MAC OS ARM-64 version of my project Goose.com is in the directory above.
+
