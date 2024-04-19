@@ -1,4 +1,4 @@
-This a list of my completed projects:
+### This a list of my completed projects: ### 
 
   1. Goose.com (typescript/python/rust)
        - A social media clone with the purpose to share stocks the user is interested in, follow other users, and send messages between users
@@ -13,4 +13,4 @@ This a list of my completed projects:
             - PostgreSQL 
       
 
-### All completed builds are located in the cashhollister2u repository under Releases ###
+### All completed builds are located in the cashhollister2u repository under "Releases" ###
