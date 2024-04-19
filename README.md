@@ -4,7 +4,7 @@
        - A social media clone with the purpose to share stocks the user is interested in, follow other users, 
          and send messages between users
        - tauri/Nextjs frontend user interface
-       - utilizes jwt auth, simplistic RSA message encryptrion, rust parrallel processing 
+       - utilizes jwt auth, simplistic RSA message encryptrion, rust parrallel processing, websockets
        - Django backend 
             - Nginx
             - gunicorn
