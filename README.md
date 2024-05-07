@@ -15,6 +15,10 @@
             - Django Rest Framework
             - PostgreSQL 
             - https
-      
+
+   ### 2. Spotipy-CircuitPython
+
+      - A library used to authenticate and connect to your Spotify account using an Adafruit Matrix Portal
 
 ### All completed builds are located in the cashhollister2u repository under "Releases" ###
+
