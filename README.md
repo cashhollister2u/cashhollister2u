@@ -24,5 +24,5 @@
 
       - A tutorial on how to build your own DIY Led Matrix Display
 
-### All completed builds are located in the cashhollister2u repository under "Releases" ###
+
 
