@@ -19,6 +19,10 @@
    ### 2. Spotipy-CircuitPython
 
       - A library used to authenticate and connect to your Spotify account using an Adafruit Matrix Portal
+      
+   ### 3. Led_App_Prod
+
+      - A tutorial on how to build your own DIY Led Matrix Display
 
 ### All completed builds are located in the cashhollister2u repository under "Releases" ###
 
