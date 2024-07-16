@@ -1,4 +1,4 @@
-### Completed Projects: ### 
+# Completed Projects: 
 
    ### 1. Goose.com (typescript/python/rust) 
        - A social media clone for the user to share stocks they're interested in, 
