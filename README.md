@@ -1,6 +1,6 @@
 # Completed Projects: 
 
-   ### 1. Led_App_Prod
+   ### 1. Tidbyt-Open-Sourced
 
       - A tutorial on how to build your own DIY Led Matrix Display
       
