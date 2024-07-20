@@ -4,7 +4,7 @@
 
       - A tutorial on how to build your own DIY Led Matrix Display
       
-   https://github.com/cashhollister2u/Led_App_Prod
+   https://github.com/cashhollister2u/Tidbyt-Open-Sourced
 
    ### 2. Spotipy-CircuitPython
 
