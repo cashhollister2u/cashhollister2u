@@ -13,7 +13,12 @@
    https://github.com/cashhollister2u/Spotipy-CircuitPython
 
    
-   
+# In Progress:
+   ### 1. Agent-Overlay
+
+      - A local AI-Agent tool calling application that facilitates increased productivity and dynamic workflows.
+
+   https://github.com/cashhollister2u/agent-overlay
       
    
 
